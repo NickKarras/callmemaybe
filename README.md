@@ -1,5 +1,7 @@
 # callmemaybe
-Here's where I'll PGP-verify messages for people who are very cautious.
+Here's where I'll PGP-sign messages for people who are very cautious about verification.
+
+On Twitter today, Aug 3, 2015, I asked people who knew Ed Snowden at work in the IC to get in touch so I can portray his work there honestly in my forthcoming book, Dark Mirror (Penguin Press). Here's a signed link to that message. As @drwdal pointed out, it's hard to verify Twitter messages out of band. If you're the person who has information, read gellman.us/pgp, use my SecureDrop landing page at tcfmailvault.info, or let me know what method you prefer.
 
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
