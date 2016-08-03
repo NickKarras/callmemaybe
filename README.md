@@ -6,9 +6,9 @@ On Twitter today, Aug 3, 2015, I asked people who knew Ed Snowden at work in the
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-For those who want to be very careful: I'm Bart Gellman and I approve this message. https://twitter.com/bartongellman/status/760841244704669697.
------BEGIN PGP SIGNATURE-----
+For those who want to be very careful, and maybe you should be: I'm Bart Gellman and I approve this message. https://twitter.com/bartongellman/status/760841244704669697. Verify my key at gellman.us/pgp and https://keybase.io/bartongellman. Also note that @snowden gives his consent: https://twitter.com/Snowden/status/760871702259695616.
 
+-----BEGIN PGP SIGNATURE-----
 iQGcBAEBCgAGBQJXoiVLAAoJEOogR7oJfk1AgicMALiaGHKVDqVuElANhIWUrKbW
 lyBmrjGMNDRII6fygN3DBPZ5fIhp50P6Yu27xIAEZX1dKykrhWTskoB6cyLDBxxN
 8nlN5o8sVj4IysHAoMcXYk4S3EgJqZkWi7pKDJ9DkGQlirrJzO6PdSnuypxK2pQg
@@ -20,3 +20,4 @@ Nf8WFIEkAAlwjup/MLaso2pIc3bKhrLc7PzG85o95hgZn3q32NR3UJ6IHaVhyM1Q
 okYfoA6ysa9Vk10VgDNIcstB7mpY/aOnCuuSuC+clQ==
 =so6c
 -----END PGP SIGNATURE-----
+
