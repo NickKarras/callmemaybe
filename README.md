@@ -1,29 +1,35 @@
-# callmemaybe
-Here's where I'll PGP-sign messages for people who are very cautious about verification.
+This is where I will periodically post signed messages, for those who want to be very sure they are mine. (Thank you for the inspiration, @drwdal.) If you know how to verify a PGP signature, you'll find it below. If you're a novice and want to get in touch securely: bring a blank thumb drive to a library computer and browse to gellman.us/pgp. It has all the instructions you need.
 
-On Twitter today, Aug 3, 2015, I asked people who knew Ed Snowden at work in the IC to get in touch so I can portray his work there honestly in my forthcoming book, Dark Mirror (Penguin Press). Here's a signed link to that message. As @drwdal pointed out, it's hard to verify Twitter messages out of band. If you're the person who has information, read gellman.us/pgp, use my SecureDrop landing page at tcfmailvault.info, or let me know what method you prefer.
 
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-For those who want to be very careful, and maybe you should be: 
 
-I'm Bart Gellman and I approve this message. https://twitter.com/bartongellman/status/760841244704669697. 
 
-Verify my key at gellman.us/pgp and https://keybase.io/bartongellman. 
+August 3, 2016
 
-Also note that @snowden has given consent: https://twitter.com/Snowden/status/760871702259695616.
+I am digitally signing this message for people who like to be extra careful. After three years of writing about the NSA and Ed Snowden, I am one of those people too.
+
+I am in full control of my Twitter account, and the tweet linked here is mine: https://twitter.com/bartongellman/status/760841244704669697. 
+
+You may verify my key and signature at gellman.us/pgp and https://keybase.io/bartongellman. 
+
+I'm writing a book for Penguin Press called DARK MIRROR: Edward Snowden and the American Surveillance State. I want to hear from anyone who has first-hand information on either. It need not be some deep dark secret. I'm interested in your observations about Snowden's work and work habits at CIA, Dell, NSA and Booz; or his time in the Army; or in computer training courses; or the surveillance programs and practices he described. Agree with him or not, I'd like to hear from you. I am well aware that reaching out could be risky for you, even without a word of classified conversation. I will strictly follow your preferred opsec protocols. If you want to take precautions and don't know how, go to a library computer and read gellman.us.pgp. 
+
+Also, if it matters to you, note that @snowden supports my request: https://twitter.com/Snowden/status/760871702259695616.
+
+Bart Gellman
 
 -----BEGIN PGP SIGNATURE-----
 
-iQGcBAEBCgAGBQJXoinJAAoJEOogR7oJfk1A7nwL/3hgmLnUkwck1vGwUxYFKLa0
-6EQAkX0E5PoPBrQOjPVYI81K0VZZbF+ecfsoPVnTDYsKjOqPNwhoSI0yYLGKFgmS
-xs/QXRzvaVTzhKG75vW94u3W+S1nCSea6Z9YR4FRcGhKb4EmQK75/zOjorAd8ND9
-d1OGFwGyHSD13Q3iuuu0KZaJVcxRoShbUI0gPbIkRxD73SlC4pq90mWthdn0ybm+
-MbAXbTnKNpTq7KdMD1YWOsDas/tWSXZKQJABgBoAbRtxl1Pz7Qa2PntuBjk/gUSj
-3pUSAdzIxbrL4M38FWGfbqhu1g+RcGBQEmmsCHO+i7FC5cZnCzOjA+llD7AneulJ
-OSPpyvNBi+mSz0kGXxk6DZLni3JSMQTwo8UqUIyL6ofbFFENRBKvlHBelarXqZHc
-YQi6BQAUthBvo8JE5fHSaFPHgBhmVaVf4vsR9baI9deCmp3aoG3Hep72XGtBZ07f
-jxtWCx2PWeY7AyI1edmDVlnBBxq6/awHU3vIZacOKA==
-=rPnb
+iQGcBAEBCgAGBQJXojHLAAoJEOogR7oJfk1AiWwL/jz+ovET1MRYGDgufDEMDAFH
+p9criuQzDBUQjy0t022DYnADY2RlPUKYZcZhjVvVnrKK8/oloK/k9Uz7+x8dQ8fs
+2O/eul2g7zx7qPIe3Ok6VpqYGCxcbWMp8gqaRGHgomyqKZJZQK9+xJl3bofvxaHC
+M3niTFbmH5oNpWzTsA2g7Azg+LXP513pCZB7aarTV5bvBgCK8rqpXE3Ebz39U1rP
+u40kB8MOaAyRZrOo+2BnruFH4+KVA3BOGd88L45nkIaD6UkyR+1Tum9dPQ3Y2QBE
+Zu5NrBM7ZVYMMVHNFi5UZc/ES9i+xJYf9YZ3z7ufoTwSEdPhic4cAztD5Nk4bmgT
+WphLTIgHWsmVdB4UShJibXtSGo1LkopRDRw6at0Ll1auMBl8TbemfaxVMtOUTw/G
+z5BWqOg5aZIZsja+PDElW/0nwGThrJCx0aGqTrfMit3Bztyj2utOYxlkjknsRo3a
+vtlZSb047B4ZG6l/dn0w69PQn29Uy8q1Puk2AXHvGQ==
+=FyQ1
 -----END PGP SIGNATURE-----
