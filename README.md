@@ -2,7 +2,6 @@ This is where I will periodically post signed messages, for those who want to be
 
 
 -----BEGIN PGP SIGNED MESSAGE-----
------BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
 August 3, 2016
